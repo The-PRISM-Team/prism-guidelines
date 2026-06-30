@@ -1,5 +1,5 @@
 # PRISM Guidelines
-This repository contains guidelines to follow when creating with PRISM.
+This repository contains guidelines to follow when contributing to PRISM Projects.
 
 ## Guideline documents
 - [Versioning](/docs/VERSIONING.md)
