@@ -1,10 +1,7 @@
 # PRISM Project Versioning Guidelines
 - Written in the 30th of June, 2026
 
-This is a spec document defining how PRISM Project's versioning should be formatted.
-
-*(Note: this spec is prone to changes in the future, since PRISM is just starting out and as it evolves, everything related to it does too.
-Since the spec will most likely change, this spec could become outdated in the future, so always make sure to switch to a newer versioning system when one is available.)*
+This is a spec document defining how PRISM Projects' version numbers should be formatted.
 
 ## Table of contents
 - [Keyword definitions](#keyword-definitions)
