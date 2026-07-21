@@ -1,5 +1,6 @@
 # PRISM Project Versioning Guidelines
 - Written in the 30th of June, 2026
+  - Modified in the 20th of July, 2026
 
 This is a spec document defining how PRISM Projects' version numbers should be formatted.
 
@@ -78,4 +79,4 @@ This is a spec document defining how PRISM Projects' version numbers should be f
   - `<MINOR>`: Either the value of `<MINOR>` if the last version was in release, the value of `<PATCH>` if the last version was in beta, the value of `<CHANGE>` if the last version was in alpha.
   - `<YEAR>`: The year when the Project was archived.
   - `<MONTH>`: The month of the year (as a number from 1 to 12) when the Project was archived.
-  - `<TIMESTAMP>`: The unix timestamp of the date\* on which the version number was written. (*Can have up to 15 seconds of error.)
+  - `<TIMESTAMP>`: The Unix timestamp of the date\* on which the version number was written. (*Can have up to 15 seconds of error.)
