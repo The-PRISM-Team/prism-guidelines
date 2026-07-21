@@ -5,6 +5,7 @@
 This is a spec document defining how PRISM Projects' version numbers should be formatted.
 
 ## Table of contents
+- [Quick TL;DR / Official RegExp Pattern](#quick-tldr)
 - [Keyword definitions](#keyword-definitions)
 - [Versioning specification](#versioning-spec)
   - [Alpha versioning](#alpha-versioning)
@@ -12,6 +13,9 @@ This is a spec document defining how PRISM Projects' version numbers should be f
   - [Release versioning](#release-versioning)
   - [Archived versioning](#archived-versioning)
 
+### *Quick TL;DR:*
+If you're looking for a regular expression to validate version numbers, there already is an official one:
+- [`/^v(?:(0\.(?:\d|[1-9]\d*)-test(?:\.[a-z]+(?:\.[a-z]+){0,2})?)|(0\.[1-9]\d*\.(?:\d|[1-9]\d+))|([1-9]\d*\.(?:\d|[1-9]\d+)\.(?:\d|[1-9]\d+)))$/i`](https://regex101.com/r/Pr3u8V/2) *(the link takes you to a [`regex101.com`](https://regex101.com/) share link!)*
 
 ## Keyword definitions
 "Project": An independent system with a (public) codename, e.g.: Project Noema.
