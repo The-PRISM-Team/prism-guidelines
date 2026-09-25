@@ -1,10 +1,9 @@
 # PRISM General Agreement
-
-**Last updated: July 20, 2026**
+- Written on the 24th of September, 2026
 
 This agreement covers your use of all PRISM Projects, tools, and services (collectively, "PRISM"). By using any PRISM service, you agree to what's below. If you don't agree, please don't use them.
 
-The full list of PRISM Projects, tools, and resources can be found at the PRISM Hub: https://prism-hub.vercel.app
+The full list of PRISM Projects, tools, and resources can be found at the [PRISM Hub](https://prism-hub.vercel.app/).
 
 ---
 
@@ -12,7 +11,7 @@ The full list of PRISM Projects, tools, and resources can be found at the PRISM 
 
 PRISM is an independent software initiative that builds modular systems and tools designed around user control, clarity, and long-term sustainability. PRISM Projects include (but aren't limited to):
 
-- **Project Noema** — a modular game console platform for browsers
+- **Project Noema**: a modular game console platform for browsers
 - Developer-facing tools and utilities
 - Any future Projects released under the PRISM name
 
@@ -26,7 +25,7 @@ PRISM offers its Projects on a free, open, and as-is basis. We aim to:
 
 - Keep Projects accessible without artificial restrictions or paywalls
 - Maintain transparency about how things work
-- Respect your data — we don't sell it, and we collect the minimum needed to operate
+- Respect your data: we don't sell it, and we collect the minimum needed to operate
 
 What we don't guarantee:
 
@@ -64,7 +63,7 @@ PRISM does not restrict access based on age. We believe capability matters more 
 
 ## 5. Intellectual Property
 
-- PRISM Projects and their source code are governed by their respective licenses. You can find each Project's repository through the PRISM Hub: https://prism-hub.vercel.app
+- PRISM Projects and their source code are usually governed by the GNU AGPL 3.0 license. It is still recommended to check the license of each Project before distributing your own variation. You can find each Project's repository through the [PRISM GitHub Organization](https://github.com/orgs/The-PRISM-Team/repositories).
 - Content you submit (translations, assets, bug reports) remains yours; by submitting, you grant PRISM a non-exclusive license to use and display it within the relevant Project.
 - The PRISM name, logo, and brand identity are owned by PRISM. Don't use them to imply official endorsement without permission.
 
@@ -97,6 +96,6 @@ We may update this document as PRISM grows. We'll do our best to communicate mea
 Questions, concerns, or requests? Reach out:
 
 **Email:** sophb.code@proton.me  
-**Hub:** https://prism-hub.vercel.app
+**Hub:** https://prism-hub.vercel.app/
 
 ❤
