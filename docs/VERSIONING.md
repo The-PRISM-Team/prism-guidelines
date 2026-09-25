@@ -1,6 +1,6 @@
 # PRISM Project Versioning Guidelines
-- Written in the 30th of June, 2026
-  - Modified in the 20th of July, 2026
+- Written on the 30th of June, 2026
+  - Modified on the 20th of July, 2026
 
 This is a spec document defining how PRISM Projects' version numbers should be formatted.
 
